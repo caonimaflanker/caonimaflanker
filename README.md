@@ -1,4 +1,4 @@
-### Hi there 👋
+### 互联网可以没有记忆，但 github 可以保存回忆，哈哈 👋
 
 <!--
 **caonimaflanker/caonimaflanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
